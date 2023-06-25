@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.str1 {
+    background-color: rgba(37, 187, 18, 0.5);
+    text-align: center;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.x:hover {
+    text-decoration: none;
+    color: white;
+    transition: all 1s ease;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    text-align: justify;
+    padding: 10px 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+img {
+    float: left;
+    width: 50%;
+    margin-right: 30px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
